@@ -1,0 +1,194 @@
+question: Apa itu gaji gesa?
+answer: GajiGesa adalah platform kesehatan finansial dimana kami memberikan karyawan akses lebih awal ke gaji bulan berjalan mereka. Dengan GajiGesa karyawan dapat akses gajinya kapanpun mereka butuhkan.
+	question: Apakah itu EWA?
+answer: EWA adalah singkatan dari Earn Wages Access. EWA merupakan gaji prorata harian dan bisa diambil kapan saja tanpa harus menunggu tanggal gajian.
+	question: Bagaimana cara install aplikasi GajiGesa?
+answer: Untuk pengguna Android anda bisa mengunduh aplikasi GajiGesa melalui link berikut : GajiGesa: https://play.google.com/store/apps/details?id=com.gajigesanative&hl=en&gl=US Untuk pengguna IOS anda bisa menggunakan link berikut untuk mengakses GajiGesa : https://app.gajigesa.com/Login/Login
+Gaji-Gesa
+question: Bagaimana cara untuk login ke aplikasi GajiGesa
+answer:Untuk login silahkan gunakan nomor handphone yang telah didaftarkan ke GajiGesa oleh pihak perusahaan anda.
+Pastikan nomor yang dimasukan sudah benar, tidak perlu menggunakan angka 0 (NOL) karena sudah ada +62, dan untuk pengiriman kode OTP anda dapat memilih melalui SMS maupun WhatsApp.
+	question: Bagaimana caranya untuk melakukan proses penarikan uang di aplikasi GajiGesa?
+answer: Untuk melakukan penarikan di GajiGesa, silakan login ke dalam aplikasi, masuk ke dalam dashboard utama, tentukan jumlah yang ingin ditarik dengan cara menggunakan slider ataupun memasukkan jumlah penarikan secara manual, klik ‘Tarik Gaji Sekarang’ lalu klik alasan penarikan uangnya, di halaman "Detail Transfer" klik checkbox kemudian konfirmasi transaksi
+	question: Berapa biaya admin yang dikenakan?
+answer: Biaya Admin ditentukan oleh kesepakatan pihak GajiGesa dan perwakilan pimpinan perusahaan tempat Kakak bekerja. Biaya Admin akan dikenakan pada setiap penarikan transaksi yang Kakak lakukan.
+	question: Bagaimana cara mendaftar layanan GajiGesa?
+answer: Untuk pendaftaran di GajiGesa, perusahaan tempat anda bekerja harus bekerja sama terlebih dahulu dengan GajiGesa. Apabila anda ingin merekomendasikan perusahaan tempat anda bekerja untuk bekerja sama dengan GajiGesa, anda bisa menghubungi kami di https://api.whatsapp.com/send/?phone=6281315276948
+	question: Bagaimana caranya untuk instalasi aplikasi GajiGesa untuk pengguna IOS?
+answer: Untuk pengguna IOS dapat mengakses GajiGesa melalui website https://app.gajigesa.com/Login/Login lalu tambahkan aplikasinya ke halaman utama di smartphone anda. Setelah aplikasi diinstall, maka dapat bekerja seperti aplikasi biasa.
+	question: Bagaimana cara mendapatkan OTP?
+answer: Kode OTP akan dikirimkan langsung melalui SMS ataupun whatsapp ke nomor handphone anda yang terdaftar di GajiGesa. Pastikan nomor yang terdaftar di GajiGesa aktif dalam menerima SMS ataupun Whatsapp, sehingga tidak terkendala dalam penerimaan kode OTP.
+	question: Bagaimana cara mengubah rekening bank saya?
+answer: Untuk mengubah rekening bank utama yang sudah terdaftar di sistem GajiGesa, anda dapat menginformasikan ke HRD perusahaan tempat anda bekerja. Namun GajiGesa menyediakan fasilitas untuk menambah rekening bank baru. Ikuti langkah dibawah ini:
+1. Pilih menu Profil
+2. Atur PIN pada pilihan Keamanan Akun
+3. Pilih Tambah Rekening Lainnya
+4. Isi Data
+5. Simpan Data Rekening dengan menggunakn PIN yang telah anda buat.
+	question: Bagaimana caranya untuk mengajukan perubahan nomor handphone di GajiGesa?
+answer: Untuk perubahan nomor Kakak yang terdaftar di Gajigesa, silakan hubungi pusat bantuan kami melalui link WhatsApp berikut https://api.whatsapp.com/send/?phone=6281315276948
+	question: Bagaimanakah caranya menambahkan lebih dari satu nomor handphone untuk transaksi pembelian pulsa dan paket data?
+answer:Cara menambahkan nomor handphone dapat mengikuti langkah berikut:
+1. Pilih menu Profil
+2. Atur PIN pada pilihan Keamanan Akun
+3. Pilih Daftar Nomor HP
+4. Tambah nomor HP
+5. Penambahan nomor handphone otomatis terverifikasi setelah memasukkan PIN yang telah dibuat
+	question:Bagaimanakah caranya menambahkan lebih dari satu nomor rekening untuk kebutuhan transfer dana ke rekening lain melalui aplikasi GajiGesa?
+answer: Untuk penambahan nomor rekening lainnya, silahkan ikuti langkah berikut :
+    1. Pilih menu Profil
+    2. Atur PIN pada pilihan Keamanan Akun
+    3. Pilih Tambah Rekening Lainnya
+    4. Isi Data
+    5. Simpan Data Rekening dengan menggunakn PIN yang telah anda buat.
+	question: Apakah saya bisa membatalkan pengajuan penambahan nomor handphone?
+answer :Pembatalan penambahan nomor handphone dapat dilakukan di aplikasi GajiGesa dengan cara
+1. Masuk ke menu Profil
+2. Pilih daftar nomor HP
+3. Klik tanda hapus pada nomor yang ingin dibatalkan
+4. Konfirmasi untuk menghapus.
+	question: Apakah saya bisa membatalkan pengajuan penambahan nomor rekening?
+answer: Pembatalan penambahan nomor rekening dapat dilakukan di aplikasi GajiGesa dengan cara
+1. Masuk ke menu Profil
+2. Pilih menu "Lihat Rekening Bank Terdaftar"
+3. Klik tanda hapus pada rekeining yang ingin dibatalkan
+4. Konfirmasi untuk menghapus.
+	question: Berapa lama proses pencairan penarikan saldo gaji?
+answer: Proses pencairan penarikan saldo gaji akan langsung terdistribusi secara realtime / langsung masuk.
+Namun dapat kami informasikan untuk pengajuan penarikan gaji di GajiGesa akan di cairkan pada siklus berikut :
+Senin - Jumat
+Pengajuan setelah 09:00 dicairkan pukul 12:00
+Pengajuan setelah 12:00 dicairkan pukul 15:00
+Pengajuan setelah 15:00 dicairkan pukul 18:00
+Pengajuan setelah 18:00 dicairkan hari berikutnya pukul 09:00
+Sabtu - Minggu dan Libur Nasional
+Pengajuan setelah 11:00 dicairkan pukul 15:00
+Pengajuan setelah 15:00 dicairkan hari berikutnya pukul 11:00
+Jika masih ada kendala, kamu bisa menghubungi tim support kami di WhatsApp melalui link berikut https://api.whatsapp.com/send/?phone=6281315276948
+	question: Bagaimanakah cara saya mengetahui status penarikan saldo gaji saya?
+answer: Untuk mengetahui status penarikan saldo gaji dapat dilihat pada menu "Transaksi" di aplikasi GajiGesa, kemudian dapat memilih sumber penarikan gaji berdasarkan Akun Gaji.
+	question: Mengapa saya tidak dapat melakukan penarikan saldo gaji?
+answer: Berdasarkan aturan perusahaan kakak, kakak belum dapat melakukan penarikan gaji dikarenakan HRD sedang dalam masa periode perhitungan gaji. Masa penarikan gaji juga dapat dilihat pada aplikasi GajiGesa ya Kak.
+	question: Saya tidak menerima notifikasi SMS token listrik yang dibeli melalui aplikasi GajiGesa, bagaimana saya bisa mendapatkan token tersebut?
+answer: Pengecekan transaksi token Listrik sudah tersedia di aplikasi GajiGesa Caranya:
+        1. Klik menu "Transaksi",
+        2. Klik transaksi PLN yang sudah dibuat,
+        3. Di halaman "Edit Transaksi" di bagian atas akan ada tulisan "Token PLN"
+	question: Bagaimana jika saldo gaji harian saya tidak bertambah?
+answer: Jika saldo harian tidak bertambah, mohon untuk memastikan apakah sudah menggunakan aplikasi GajiGesa versi terbaru. Jika masih ada kendala dapat menghubungi tim Support GajiGesa ke link WhatsApp berikut https://api.whatsapp.com/send/?phone=6281315276948
+	question: Mengapa saya tidak bisa login ke aplikasi GajiGesa?
+answer: Setelah kami melakukan pengecekan bahwa akun Gajigesa Kakak sedang dinonaktifkan oleh pihak HRD perusahaan yang menyebabkan Kakak tidak dapat login di Gajigesa, terkait hal tersebut silahkan Kakak lakukan konfirmasi kepada pihak HRD tempat Kakak bekerja untuk penjelasan lebih lanjut ya Kak 🙏
+	question: Apakah perusahaan saya masih bekerjasama dengan GajiGesa?
+answer: Hai Kak, untuk mengecek kerjasama antara perusahaan kakak dan aplikasi GajiGesa, harap hubungi tim support kami di link WhatsApp berikut: https://api.whatsapp.com/send/?phone=6281315276948
+	question: Bagaimana caranya melihat saldo gaji harian saya?
+answer: Untuk melakukan pengecekan saldo GajiGesa dapat dilihat pada aplikasi GajiGesa di halaman utama di menu 'Akun Gaji'
+	question: Bagaimana caranya melihat saldo gaji bulanan saya?
+answer: Untuk melakukan pengecekan saldo gajian di aplikasi GajiGesa dapat dilihat pada halaman utama di menu 'Pencarian Gaji'.
+Proses pencairan gaji tidak dapat dilakukan secara parsial, seluruh dana akan masuk ke rekening yang didaftarkan.
+	question: Apakah status pendaftaran akun GajiGesa saya sudah aktif?
+answer: Saat ini status pendaftaran akun Kakak di GajiGesa masih dalam proses oleh pihak HRD perusahaan Kakak. Kami akan bantu untuk menanyakan kembali status pengajuannya ya Kak. Kakak dapat melakukan pengecekan secara berkala pada aplikasi GajiGesa mengenai statusnya, atau dapat menghubungi kami kembali jika masih belum aktif di nomor WhatsApp berikut https://api.whatsapp.com/send/?phone=6281315276948
+	question: Setelah masuk ke aplikasi GajiGesa, namun tampilan layar setelah penarikan saldo gaji hanya loading saja
+answer: Jika Kakak mengalami kendala terkait aplikasi GajiGesa, mohon untuk mencoba logout lalu kemudian login kembali. Namun jika masih tetap terkendala mohon untuk melakukan instalasi ulang aplikasi GajiGesa-nya. Hal ini terkait dengan pengembangan aplikasi yang tersus dilakukan sehingga versi aplikasi GajiGesa akan terus berkembang menjadi lebih baik, jadi pastikan aplikasi GajiGesa yang terinstall merupakan versi terbaru ya kak
+	question: Kenapa saya sama sekali tidak dapat mengakses aplikasi GajiGesa?
+answer: Saat ini akun GajiGesa Kakak sedang berstatus sudah tidak dapat melakukan penarikan gaji, hal tersebut dikarenakan atas permintaan dari HRD perusahaan Kakak. Untuk informasi lebih lanjut mohon untuk menghubungi pihak HRD ya Kak.
+	question: Apakah yang dimaksud dengan Maximum Withdrawal?
+answer: Maximum Withdrawal atau Batas Maksimal Penarikan adalah total saldo yang dapat dicairkan dalam satu periode gaji berdasarkan kesepakatan pihak GajiGesa dan perusahaan. Jumlah total saldo dapat dilihat pada kantong Akun Gaji di aplikasi GajiGesa.
+	question: Apa saja pilihan top up uang elektronik yang tersedia di aplikasi GajiGesa?
+answer: Saat ini pilihan top up uang elektronik melalui aplikasi GajiGesa sebagai berikut:
+1. Link Aja!
+2. GoPay
+3. OVO
+4. Dana
+5. ShopeePay
+	question: Apa saja pilihan top up denominasi token PLN yang tersedia di aplikasi GajiGesa?
+answer: Saat ini pilihan top up token PLN melalui aplikasi GajiGesa sebagai berikut:
+1. 20,000
+2. 50,000
+3. 100,000
+4. 200,000
+5. 500,000
+6. 1,000,000
+	question: Apa saja pilihan top up layanan yang tersedia di aplikasi GajiGesa?
+answer: Saat ini banyak pilihan layanan top up yang dapat dilakukan melalui aplikasi GajiGesa:
+1. Token PLN prabayar
+2. Paket data Telkomsel
+3. Pulsa isi ulang
+4. E-money (E-wallet)
+	question: Apa saja pilihan pembayaran tagihan yang tersedia di aplikasi GajiGesa?
+answer: Saat ini banyak pilihan layanan pembayaran tagihan yang dapat dilakukan melalui aplikasi GajiGesa:
+1. PDAM
+2. Pascabayar (Telkomsel Halo)
+3. Tagihan PLN
+	question: Apa saja pilihan pembelian voucher digital yang tersedia di aplikasi GajiGesa?
+answer: Selain top up uang elektronik dan layanan tagihan, kamu juga bisa membeli voucher untuk beberapa layanan berikut ini:
+1. Transmart Carrefour
+2. Indomaret
+3. Alfamart
+4. Grab
+5. Grab Food
+	question: Apakah saya bisa mengirimkan saldo gaji saya ke rekening lain?
+answer: Saat ini GajiGesa memberikan kemudahan bagi pelanggannya untuk dapat transfer saldo gaji ke rekening lain. Untuk pendaftaran rekening lain dapat dilakukan melalui aplikasi GajiGesa dengan mengatur PIN keamanan terlebih dahulu di aplikasi GajiGesa.
+	question: Apakah saya bisa mengisi pulsa ke nomor handphone lain?
+answer: Bisa
+	question: Apakah itu GajiGesa Poin? Untuk apa saja kegunaannya?
+answer: GajiGesa Poin adalah bentuk hubungan interaksi dengan pengguna agar tetap aktif menggunakan layanan GajiGesa. GajiGesa Poin bisa didapatkan saat pertama kali terdaftar di GajiGesa, juga saat merekomendasikan bertransaksi di GajiGesa, sebagai hadiah oleh pihak GajiGesa atas partisipasi sebuah acara, dan bisa didapat karena tingginya aktifitas transaksi di GajiGesa.
+Kegunaan GajiGesa Poin dapat di tukar untuk pembelian Pulsa, Paket Data, Token PLN, dll.
+	question: Apakah itu WhatsApp EWA?
+answer: Whatsapp EWA adalah sebuah layanan tarik saldo gaji menggunakan layanan WhatsApp untuk pengguna layanan GajiGesa yang tidak dapat menginstall aplikasi GajiGesa di handphonenya.. Terdapat beberapa pilihan denominasi untuk penarikan saldo gaji. Di WhatsApp EWA juga dapat mengecek sisa saldo gaji yangh tersedia.
+	question: Apakah itu Uang Kantor
+answer: Uang Kantor adalah fasilitas yang dapat diberikan oleh perusahaan kepada karyawannya agar dapat membantu mengelola petty cash perusahaan dengan praktis dan mudah
+	question: Bagaimana cara saya menghubungi Customer Support GajiGesa?
+answer:Untuk menghubungi Customer Support GajiGesa dapat menekan tombol bantuan pada aplikasi GajiGesa, atau dengan menghubungi nomor WhatsApp ke +6281315276948 atau klik link berikut https://api.whatsapp.com/send/?phone=6281315276948
+	question: Menu apa saja yang dapat menggunakan security PIN di aplikasi GajiGesa?
+answer: Security PIN saat ini digunakan untuk syarat verifikasi penambahan nomor rekening dan penambahan nomor handphone untuk kebutuhan transfer saldo gaji atau pengisian pulsa ke nomor handphone lain
+question: Apakah saya bisa mengisi pulsa ke nomor handphone lain?ning lain?
+answer: Bisa, saat ini GajiGesa memberikan kemudahan bagi pelanggannya untuk dapat mengisi pulsa ke nomor handphone lain. Untuk pendaftaran nomor handphone lain dapat dilakukan melalui aplikasi GajiGesa dengan mengatur PIN keamanan terlebih dahulu di aplikasi GajiGesa.
+question: Apakah sisa saldo gaji di aplikasi GajiGesa akan terkirim seluruhnya ke rekening saya pada akhir hari masa penarikan?
+answer: Benar, setelah menyetujui syarat dan ketentuan di aplikasi GajiGesa perihal halaman "Tarik Gaji Sebelum Masa Tutup Transaksi Berakhir", maka sisa saldo gaji akan terkirim pada akhir hari masa penarikan berakhir pada pukul 5 sampai 6 sore.
+Confluence pages
+question: Bagaimana cara membatalkan penarikan sisa saldo otomatis?
+answer: Untuk membatalkan penarikan sisa saldo otomatis, dapat menghubungi WhatsApp ke +6281315276948 atau klik link berikut https://api.whatsapp.com/send/?phone=6281315276948 paling lambat dua hari sebelum siklus tutup gaji dimulai.
+question: Apa itu GajiGesa Gold?
+answer: Sebuah aplikasi emas digital yang menyediakan berbagai fitur untuk kebutuhan investasi Anda. GajiGesa percaya bahwa setiap orang layak memiliki masa depan yang lebih cerah melalui investasi emas digital melalui ekosistem teknologi GajiGesa yang mudah, nyaman, dan aman digunakan.
+question: Apakah aman bertransaksi emas di GajiGesa?
+answer: GajiGesa bekerjasama dengan Treasury, pedagang emas digital fisik pertama di Indonesia yang telah menerima lisensi resmi dari Badan Pengawas Perdagangan Berjangka Komoditi Kementerian Perdagangan Republik Indonesia (""BAPPEBTI"") pada tanggal 13 Desember 2021 berdasarkan Surat Keputusan Kepala BAPPEBTI Nomor 001/BAPPEBTI/P-ED/12/2021 tentang Persetujuan sebagai Pedagang Emas Digital Fisik kepada PT Indonesia Logam Pratama dan Sertifikat Persetujuan sebagai Pedagang Emas Digital Fisik Nomor 001/BAPPEBTI/P-ED/12/2021. Sistem elektronik Treasury telah terdaftar dalam Sertifikat Pendaftaran Pelaksanaan Sistem Elektronik dari Kementerian Komunikasi dan Informatika Republik Indonesia (KOMINFO). Treasury juga merupakan anggota Asosiasi Fintech Indonesia (AFTECH). Untuk menjamin keamanan, kepastian, dan penyelesaian semua transaksi Pengguna, Treasury memiliki sertifikat keanggotaan dari salah satu lembaga kliring di Indonesia.
+question: Seberapa sering harga emas diperbarui?
+answer: Harga emas diperbarui setiap menit.
+question: Apakah ada bentuk fisik dari emas yang saya beli di GajiGesa? Dimana emas tersebut disimpan?
+Ya, GajiGesa bekerja sama dengan PT Untung Bersama Sejahtera sebagai mitra penyedia emas kami. Semua emas yang dibeli di GajiGesa dijamin asli dan berupa emas 24 Karat (selain perhiasan) dengan tingkat kemurnian 99,99% (sembilan puluh sembilan koma sembilan persen), dan setiap kali Anda mencetak emas atau mencetak dan membeli Nusantara Coins, Anda akan menerima sertifikat keaslian dari PT Untung Bersama Sejahtera.
+question: Berapa biaya membeli emas?
+answer: Tidak ada biaya
+question: Berapa proses pembelian emas?
+answer: Maksimal 5 menit setelah pembelian
+question: Apakah saya bisa menjal emas saya?
+answer: Ya, anda bisa menjual emas anda
+question: Dimana saya dapat melihat histori transaksi emas?
+answer: Pada Halaman Keuangan GajiGesa > Emas Saya / Beli Emas > Transaksi
+question: Dimana saya dapat melihat record transaksi secara legal?
+answer: Di link berikut dari PT Indonesia Logam Pratama: https://digitalgold.ich.co.id/balance-check   (platform dari kementrian perdagangan, lembaga kliring Indonesia)
+question: Apakah emas saya akan muncul di akun pembelian emas saya?
+answer: Tidak. Akan ada akun terpisah untuk pembelian melalui GajiGesa.
+question: Jika ada delay,apakah harga emas saya berubah?
+answer: Tidak, angka penjualan akan dikunci dan tidak berubah meski ada delay.
+question: Apa yang dapat dilakukang dengan GajiGesa Gold?
+answer: Hanya jual beli emas saja. Tidak ada fitur lain.
+question: Berapa minimum pembelian emas?
+answer: Rp 10,000
+question: Berapa minimum penjualan emas?
+answer: Rp 10,000
+question: Kenapa saldo saya lebih kecil
+answer: Nominal gaji/limit ditentukan oleh HRD. Apabila terdapat perbedaan sebelumnya dengan hari ini, silakan hubungi HRD atau layanan bantuan di sini https://api.whatsapp.com/send/?phone=6281315276948
+question: Kenapa gaji saya turun
+answer: Nominal gaji/limit ditentukan oleh HRD. Apabila terdapat perbedaan sebelumnya dengan hari ini, silakan hubungi HRD atau layanan bantuan di sini https://api.whatsapp.com/send/?phone=6281315276948
+question: Gaji saya lebih kecil ya
+answer: Nominal gaji/limit ditentukan oleh HRD. Apabila terdapat perbedaan sebelumnya dengan hari ini, silakan hubungi HRD atau layanan bantuan di sini https://api.whatsapp.com/send/?phone=6281315276948
+question: Gaji saya turun ya
+answer: Nominal gaji/limit ditentukan oleh HRD. Apabila terdapat perbedaan sebelumnya dengan hari ini, silakan hubungi HRD atau layanan bantuan di sini https://api.whatsapp.com/send/?phone=6281315276948
+question: Kenapa limit saya turun
+answer: Nominal gaji/limit ditentukan oleh HRD. Apabila terdapat perbedaan sebelumnya dengan hari ini, silakan hubungi HRD atau layanan bantuan di sini https://api.whatsapp.com/send/?phone=6281315276948
+question: Kenapa limit saya lebih kecil
+answer: Nominal gaji/limit ditentukan oleh HRD. Apabila terdapat perbedaan sebelumnya dengan hari ini, silakan hubungi HRD atau layanan bantuan di sini https://api.whatsapp.com/send/?phone=6281315276948
+question: Apakah gaji saya turun
+answer: Nominal gaji/limit ditentukan oleh HRD. Apabila terdapat perbedaan sebelumnya dengan hari ini, silakan hubungi HRD atau layanan bantuan di sini https://api.whatsapp.com/send/?phone=6281315276948
+question: Apakah gaji saya lebih kecil
+answer: Nominal gaji/limit ditentukan oleh HRD. Apabila terdapat perbedaan sebelumnya dengan hari ini, silakan hubungi HRD atau layanan bantuan di sini https://api.whatsapp.com/send/?phone=6281315276948
