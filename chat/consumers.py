@@ -43,7 +43,7 @@ pinecone.init(
 )
 index_name = os.environ.get("PINECONE_INDEX_NAME")
 
-whatsapp_chat_support_url="https://api.whatsapp.com/send/?phone=6281315276948"
+whatsapp_chat_support_url="https://api.whatsapp.com/send/"
 function_descriptions = constants.function_descriptions
 
 # -------------------------
@@ -289,7 +289,7 @@ class ChatConsumer(AsyncWebsocketConsumer):
         docsearch = Pinecone.from_existing_index(index_name, embeddings)
 
         llm = ChatOpenAI(
-            # openai_api_key="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",
+          
             model_name="gpt-3.5-turbo",
             # model_name="gpt-4",
             temperature=0.0,
