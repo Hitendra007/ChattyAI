@@ -3,7 +3,7 @@ Custom chatbot in django. Can be tailored to user needs.
 Chatty AI is a Django-based application that provides a WebSocket-powered chat interface integrated with the OpenAI GPT-3.5 Turbo language model.
 
 # Chatty AI App
-Chatty AI is a Django-based application that provides a WebSocket-powered chat interface integrated with the OpenAI GPT-3.5 Turbo language model. This application is designed for providing chat support in the context of GajiGesa products and services.
+Chatty AI is a Django-based application that provides a WebSocket-powered chat interface integrated with the OpenAI GPT-3.5 Turbo language model. This application is designed for providing chat support.
 
 # Features
 Real-time Chat: Utilize Django Channels and WebSocket to enable real-time communication between clients and the server.
